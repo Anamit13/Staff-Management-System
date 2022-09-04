@@ -34,6 +34,11 @@ To make a staff management system for staffing in hospitals which are provided f
 7. File handling.
 8. Error Handling.
 
+## Conclusion
+This application will help the management department to do the staffing in hospitals by storing their details and assigning shifts to them. Some features are helpful and time-savers, such as the feature of the list of gender-wise and age-wise. More features are yet to add in this application.
+
+
+
 
 
 
