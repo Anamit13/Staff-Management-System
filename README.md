@@ -20,6 +20,20 @@ To make a staff management system for staffing in hospitals which are provided f
 ## Flow Chart
 ![pic2](https://user-images.githubusercontent.com/70309589/188324891-ff1b1a10-4717-409a-8453-1b89c380af33.PNG)
 
+## Class Diagram
+![Picture2](https://user-images.githubusercontent.com/70309589/188325328-1923d95d-5d78-43a3-8023-852a7c4883c4.png)
+
+##Concepts of OOP used
+1. Classes.
+2. Constructors and destructors.
+3. Methods.
+4. Inheritance.
+5. Abstraction.
+6. Encapsulation.
+7. File handling.
+8. Error Handling.
+
+
 
 
 
